@@ -19,10 +19,10 @@
 ## The film
 
 <p align="center">
-  <a href="examples/vase-film/video/VASE-Propulsion-US12173671.mp4"><img src=".github/assets/film-poster.jpg" width="80%" alt="Watch the 3:09 VASE Propulsion film: a single-stage capsule with a US flag climbing over the curve of the Earth beside BEAT THE TYRANNY OF THE ROCKET EQUATION."></a>
+  <a href="examples/vase-film/video/VASE-Propulsion-US12173671.mp4"><img src=".github/assets/teaser.gif" width="80%" alt="A 20-second teaser of the VASE Propulsion film: the hook, a launch failure, the logo reveal, the gas column, liftoff, the climb to orbit, the terrain-weaving missile and the end card."></a>
 </p>
 
-<p align="center"><sub><a href="examples/vase-film/video/VASE-Propulsion-US12173671.mp4"><b>▶ Watch the film</b></a> (3:09, 720p, 28 MB, sound on). Every frame was drawn in code with this skill's kit.</sub></p>
+<p align="center"><sub><a href="examples/vase-film/video/VASE-Propulsion-US12173671.mp4"><b>▶ Watch the film</b></a> the full 3:09 film with sound (the teaser above is 20 s, silent). Every frame was drawn in code with this skill's kit.</sub></p>
 
 ---
 
