@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src=".github/assets/frame-01.jpg" width="49%" alt="A white two-stage rocket climbing through cel-shaded clouds; a red banner reads SECOND STAGE FAILED TO IGNITE and a blinking callout reads NO IGNITION.">
-  <img src=".github/assets/frame-09.jpg" width="49%" alt="A missile weaving through a dark contour-lined mountain range under red radar domes, beside a panel reading HARDER TO DETECT.">
+  <img src=".github/assets/frame-02.jpg" width="49%" alt="Air defense: a missile truck on a dark terrain block under a cyan radar dome; a callout reads BOOSTER HUNG and a banner reads BOOSTER FAILED TO SEPARATE.">
+  <img src=".github/assets/frame-08.jpg" width="49%" alt="A single-stage capsule with a US flag decal climbing over the curve of the Earth, beside BEAT THE TYRANNY OF THE ROCKET EQUATION and a live altitude readout.">
 </p>
 
 <p align="center"><sub>From <code>examples/vase-film</code>, a 3-minute investor film for US 12,173,671 B2, made with this skill.</sub></p>
@@ -45,7 +45,7 @@ Then, in Claude Code:
 
 <table>
   <tr>
-    <td><img src=".github/assets/frame-02.jpg" alt="Air defense: a missile truck on a dark terrain block under a cyan radar dome; a callout reads BOOSTER HUNG and a banner reads BOOSTER FAILED TO SEPARATE."></td>
+    <td><img src=".github/assets/frame-01.jpg" alt="A white two-stage rocket climbing through cel-shaded clouds; a red banner reads SECOND STAGE FAILED TO IGNITE and a blinking callout reads NO IGNITION."></td>
     <td><img src=".github/assets/frame-03.jpg" alt="A warm isometric desk with a notebook sketch, a lamp, a mug and books, beside the line I WAS 16 WHEN I SKETCHED MY FIRST ROCKET NOZZLE."></td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ Then, in Claude Code:
     <td><img src=".github/assets/frame-07.jpg" alt="Two live copies of the patent figure side by side, sea level and 64 km, with THICK AIR and THIN AIR explanations between them."></td>
   </tr>
   <tr>
-    <td><img src=".github/assets/frame-08.jpg" alt="A single-stage capsule with a US flag decal climbing over the curve of the Earth, beside BEAT THE TYRANNY OF THE ROCKET EQUATION and a live altitude readout."></td>
+    <td><img src=".github/assets/frame-09.jpg" alt="A missile weaving through a dark contour-lined mountain range under red radar domes, beside a panel reading HARDER TO DETECT."></td>
     <td><img src=".github/assets/frame-10.jpg" alt="The end card: the VASE Propulsion lockup, ONE ENGINE. ONE STAGE. ANY ALTITUDE., licensing chips and the dark patent figure."></td>
   </tr>
 </table>
