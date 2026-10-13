@@ -1,0 +1,16 @@
+{
+  "name": "mograph",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Music-synced motion-graphics explainer films, rendered deterministically to MP4.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "demo:beat": "python3 scripts/make_demo_beat.py examples/demo/beat.wav",
+    "demo:stills": "node scripts/render.mjs examples/demo/index.html --stills 1,3.5,6,9,12.8,16,21 --out out/demo-stills --sheet out/demo-sheet.png",
+    "demo:render": "node scripts/render.mjs examples/demo/index.html --out out/demo.mp4 --audio examples/demo/beat.wav --fps 30",
+    "vase:stills": "node scripts/render.mjs examples/vase-film/index.html --stills 5,16,40,62,85,110,160,175,186 --out out/vase-stills --sheet out/vase-sheet.png"
+  },
+  "dependencies": { "playwright-core": "^1.56.0" },
+  "engines": { "node": ">=18" }
+}

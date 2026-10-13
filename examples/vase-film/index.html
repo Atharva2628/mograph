@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>VASE Propulsion · US 12,173,671 B2</title>
+<!-- Example film. Serve the repo root and open /examples/vase-film/index.html -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+  html, body { margin: 0; background: #ddd; overflow: hidden; }
+  #stage { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; transform-origin: 0 0; background: #fbfbfa; overflow: hidden; }
+  #stage canvas { position: absolute; left: 0; top: 0; }
+  .figwrap { position: absolute; overflow: hidden; opacity: 0; pointer-events: none; box-shadow: 0 0 0 1px #8a8a8f; background: #fbfbfa; }
+  .figwrap iframe { position: absolute; left: 0; top: 0; border: 0; background: transparent; transform-origin: 0 0; }
+  #ui { position: fixed; left: 0; right: 0; bottom: 0; display: flex; gap: 12px; align-items: center; padding: 10px 16px; background: #fffd; color: #333; font: 13px "IBM Plex Mono", monospace; }
+  #ui input { flex: 1; }
+  body.render #ui { display: none; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <canvas id="back" width="1920" height="1080"></canvas>
+  <canvas id="front" width="1920" height="1080"></canvas>
+</div>
+<script src="../../kit/core.js"></script>
+<script src="../../kit/models.js"></script>
+<script src="../../kit/fx.js"></script>
+<script src="brand.js"></script>
+<script src="figure.js"></script>
+<script src="film3a.js"></script>
+<script src="film3b.js"></script>
+<script src="../../kit/host.js"></script>
+</body>
+</html>

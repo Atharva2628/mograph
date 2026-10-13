@@ -1,0 +1,9 @@
+node_modules/
+node_modules.nosync/
+out/
+stills/
+*.mp4
+*.wav
+!examples/**/.keep
+cues.json
+.DS_Store

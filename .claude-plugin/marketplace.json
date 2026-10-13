@@ -1,0 +1,8 @@
+{
+  "name": "mograph",
+  "owner": { "name": "Atharva Rajé Undire", "url": "https://github.com/Atharva2628" },
+  "description": "The mograph skill: music-synced motion-graphics explainer films.",
+  "plugins": [
+    { "name": "mograph", "source": ".", "description": "Cinematic, music-synced motion-graphics explainer films for technical ideas, rendered to 60 fps MP4." }
+  ]
+}

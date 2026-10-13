@@ -1,0 +1,11 @@
+{
+  "name": "mograph",
+  "version": "1.0.0",
+  "description": "Cinematic, music-synced motion-graphics explainer films for technical ideas, rendered frame by frame to 60 fps MP4.",
+  "author": { "name": "Atharva Rajé Undire", "url": "https://atharvaraje.com" },
+  "homepage": "https://github.com/Atharva2628/mograph",
+  "repository": "https://github.com/Atharva2628/mograph",
+  "license": "MIT",
+  "keywords": ["video", "motion-graphics", "explainer", "isometric", "animation", "patent", "pitch"],
+  "skills": ["./"]
+}
