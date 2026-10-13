@@ -10,11 +10,13 @@ The film this skill was built on: a 3:09 investor film for a single-stage-to-orb
 6. Proof: sea level against vacuum.
 7. Twelve missions, from a dawn liftoff to orbit to a terrain-weaving missile, then the close.
 
+**[▶ Watch the finished film](video/VASE-Propulsion-US12173671.mp4)** (3:09, 720p web copy; the original renders at 1080p60).
+
 - `brand.js`: the VASE mark (an upside-down vase is a chamber, throat and bell, with the gas spike through it), drawn in code so it can build itself on the reveal. `mklogo.mjs` writes the SVGs in `assets/`.
 - `figure.js`: drives the embedded patent figure (`figure.html`, an anatomy-style interactive figure) through its `__vx.set()` API and part highlighting.
 - `film3a.js`, `film3b.js`: the scenes, in song seconds, with the song map and `TIMEMAP` (the intro plays at 0.86×).
 
-The soundtrack is not included. To render it, bring a track and re-map the scenes to its structure (see `references/music.md`):
+The soundtrack is not included as a separate file. To render the film yourself, bring a track and re-map the scenes to its structure (see `references/music.md`):
 
 ```sh
 python3 scripts/analyze_music.py your-track.mp3 --json music.json

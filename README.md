@@ -16,6 +16,14 @@
 
 <p align="center"><sub>From <code>examples/vase-film</code>, a 3-minute investor film for US 12,173,671 B2, made with this skill.</sub></p>
 
+## The film
+
+<p align="center">
+  <a href="examples/vase-film/video/VASE-Propulsion-US12173671.mp4"><img src=".github/assets/film-poster.jpg" width="80%" alt="Watch the 3:09 VASE Propulsion film: a single-stage capsule with a US flag climbing over the curve of the Earth beside BEAT THE TYRANNY OF THE ROCKET EQUATION."></a>
+</p>
+
+<p align="center"><sub><a href="examples/vase-film/video/VASE-Propulsion-US12173671.mp4"><b>▶ Watch the film</b></a> (3:09, 720p, 28 MB, sound on). Every frame was drawn in code with this skill's kit.</sub></p>
+
 ---
 
 Ask Claude for an explainer film and mograph has it work like a motion designer. First it finds the truth (the claims, the numbers, the real events with real dates). Next it maps the song you give it: the silences, quiet stretches, drops and kicks. Then it hangs a story on that structure: the shock on the energetic intro, the explanation on the quiet part, the reveal on the drop, the countdown on the breakdown, and the end card held through the final silence.
@@ -91,7 +99,7 @@ The full method is in [SKILL.md](SKILL.md). The lessons behind it, from five rou
 | Example | What it shows | Runs with |
 |---|---|---|
 | [`examples/demo`](examples/demo) | 24 s: a hook, a failure shot, an explainer, a silence, a liftoff on the drop, a terrain weave, an end card | nothing: the beat is generated |
-| [`examples/vase-film`](examples/vase-film) | the 3:09 VASE Propulsion film, with an embedded live patent figure | your own soundtrack |
+| [`examples/vase-film`](examples/vase-film) | the 3:09 VASE Propulsion film, with an embedded live patent figure ([watch it](examples/vase-film/video/VASE-Propulsion-US12173671.mp4)) | your own soundtrack |
 
 ```sh
 npm install

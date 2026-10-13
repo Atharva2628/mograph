@@ -3,6 +3,7 @@ node_modules.nosync/
 out/
 stills/
 *.mp4
+!examples/vase-film/video/*.mp4
 *.wav
 !examples/**/.keep
 cues.json
